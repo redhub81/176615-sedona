@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Андрей Краснов](https://up.htmlacademy.ru/htmlcss/20/user/176615).
-* Наставник: `Неопознанный Енот`(https://up.htmlacademy.ru/htmlcss/20/user/176615).
+* Наставник: [Неопознанный Енот](https://up.htmlacademy.ru/htmlcss/20/user/176615).
 
 ---
 
